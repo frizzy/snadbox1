@@ -1,0 +1,12 @@
+{
+  "title": "Nyan Cat",
+  "image": {
+    "key": "media/88b76d635fb3c3e76db00e378116b5e100064289a876453134b3f70e1271c543.gif",
+    "name": "nyan-cat.gif",
+    "size": 71201,
+    "mime": "image/gif",
+    "width": 1750,
+    "height": 800
+  },
+  "caption": "Nyan cat doing it's thing"
+}

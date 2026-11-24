@@ -1,0 +1,25 @@
+{
+  "title": "number one",
+  "cover": "panda",
+  "seo": "something",
+  "category": "Holistic Home",
+  "tags": [
+    "large garden",
+    "outdoor living"
+  ],
+  "body": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "this is ok"
+          }
+        ]
+      }
+    ]
+  },
+  "published": "2026-11-24"
+}
