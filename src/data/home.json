@@ -1,0 +1,48 @@
+{
+  "metaTitle": "Staying Cosy | The art of healthy living",
+  "metaDescription": "Holistic Home: the art of healthy living. Slow living, mindful interiors and a fresh, natural home that supports you.",
+  "heroTitle": "Holistic Home",
+  "heroTagline": "The art of healthy living",
+  "heroText": "Our homes don’t need the latest sofa or a trendy paint colour. They need a fresh, natural, and healthy environment that supports us in the most restorative way.",
+  "heroImage": {
+    "slug": "site-hero",
+    "src": "../assets/library/site-hero.webp",
+    "width": 1280,
+    "height": 853,
+    "alt": "A macramé hanging chair in a bright living room with plants"
+  },
+  "heroLinkLabel": "Discover more",
+  "heroLinkHref": "/blog/category/holistic-home",
+  "freshHeading": "Fresh reads",
+  "browseLabel": "Browse all posts",
+  "browseHref": "/blog",
+  "statementImage": {
+    "slug": "site-statement",
+    "src": "../assets/library/site-statement.jpg",
+    "width": 1920,
+    "height": 1080,
+    "alt": "A bright, calm living room with a soft white sofa, a wooden coffee table and a plant"
+  },
+  "statementIntro": "The timeless way of",
+  "statementTitle": "Staying Cosy",
+  "statementText": "Home — the way it’s meant to feel. Calm, grounded, and in harmony with nature. Thoughtfully designed with care and modern craftsmanship, a quiet comfort that lingers.",
+  "aboutTitle": "Let your home breathe with you",
+  "aboutBio": "Hi, I’m Jana! I’ve moved 18 times and built my own eco-house along the way. This is where I share tips and inspiration for slow living, mindful interiors, and creating a home that is healthy and authentically yours.",
+  "aboutLinkLabel": "Read my story",
+  "aboutLinkHref": "/about",
+  "aboutImage": {
+    "slug": "site-bio",
+    "src": "../assets/library/site-bio.jpg",
+    "width": 894,
+    "height": 1192,
+    "alt": "Jana in her kitchen"
+  },
+  "signatureImage": {
+    "slug": "site-signature",
+    "src": "../assets/library/site-signature.png",
+    "width": 500,
+    "height": 333,
+    "alt": "Jana's signature"
+  },
+  "featuredHeading": "Featured"
+}
